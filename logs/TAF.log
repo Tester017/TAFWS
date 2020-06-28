@@ -1,0 +1,80 @@
+2020-06-27 15:41:11.781 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-27_Jun_2020_03_41_11_PM
+2020-06-27 15:41:11.959 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-27 15:41:11.959 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-27 15:41:11.960 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-27 15:41:21.136 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.RemoteCapabilities - chromedriver path C:\Users\danielf\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39
+2020-06-27 15:41:21.141 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - app : E:\Maveric\Scuba\Framework\NewTAFUpdated\.\src\test\resources\apps\AndroidApp.apk
+2020-06-27 15:41:21.142 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - appActivity : com.swaglabsmobileapp.SplashActivity
+2020-06-27 15:41:21.142 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - appPackage : com.swaglabsmobileapp
+2020-06-27 15:41:21.193 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - appium:chromeOptions : {w3c=false}
+2020-06-27 15:41:21.195 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - automationName : UiAutomator2
+2020-06-27 15:41:21.196 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - browserName : 
+2020-06-27 15:41:21.198 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - chromedriverExecutableDir : C:\Users\danielf\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39
+2020-06-27 15:41:21.201 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - deviceName : 
+2020-06-27 15:41:21.201 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - deviceReadyTimeout : 60
+2020-06-27 15:41:21.202 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - noReset : true
+2020-06-27 15:41:21.202 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - platformName : android
+2020-06-27 15:41:21.202 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - platformVersion : 8.1
+2020-06-27 15:41:21.202 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - resetKeyboard : true
+2020-06-27 15:41:21.202 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - unicodeKeyboard : true
+2020-06-27 15:41:21.203 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - useNewWDA : false
+2020-06-27 15:41:24.592 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-27 15:41:24.747 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-27 15:41:24.791 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.RemoteCapabilities - chromedriver path C:\Users\danielf\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39
+2020-06-27 15:41:24.791 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - app : E:\Maveric\Scuba\Framework\NewTAFUpdated\.\src\test\resources\apps\AndroidApp.apk
+2020-06-27 15:41:24.792 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - appActivity : com.swaglabsmobileapp.SplashActivity
+2020-06-27 15:41:24.792 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - appPackage : com.swaglabsmobileapp
+2020-06-27 15:41:24.792 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - appium:chromeOptions : {w3c=false}
+2020-06-27 15:41:24.793 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - automationName : UiAutomator2
+2020-06-27 15:41:24.795 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - browserName : 
+2020-06-27 15:41:24.804 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - chromedriverExecutableDir : C:\Users\danielf\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39
+2020-06-27 15:41:24.806 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - deviceName : 
+2020-06-27 15:41:24.807 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - deviceReadyTimeout : 60
+2020-06-27 15:41:24.807 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - noReset : true
+2020-06-27 15:41:24.808 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - platformName : android
+2020-06-27 15:41:24.808 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - platformVersion : 8.1
+2020-06-27 15:41:24.808 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - resetKeyboard : true
+2020-06-27 15:41:24.808 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - unicodeKeyboard : true
+2020-06-27 15:41:24.809 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.driver.DriverFactory - useNewWDA : false
+2020-06-27 15:41:27.176 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-27 15:41:27.179 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-27 15:46:11.968 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-27_Jun_2020_03_46_11_PM
+2020-06-27 15:46:12.118 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-27 15:46:12.129 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-27 15:46:12.130 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-27 15:46:26.737 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-27 15:46:40.094 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-27 15:46:46.510 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-27 15:46:59.694 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-28 12:29:09.698 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-28_Jun_2020_12_29_09_PM
+2020-06-28 12:29:11.991 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-28 12:29:11.996 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-28 12:29:11.996 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-28 12:29:19.856 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-28 12:29:19.856 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-28 12:29:21.655 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-28 12:29:21.755 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-28 12:29:27.782 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-28 12:29:28.425 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-28 12:29:30.482 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-28 12:29:31.108 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-28 12:29:34.352 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-28 12:29:36.827 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-28 12:29:39.905 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-28 12:29:41.185 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-28 12:40:53.238 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-28_Jun_2020_12_40_53_PM
+2020-06-28 12:40:55.435 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-28 12:40:55.435 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-28 12:40:55.438 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-28 12:41:01.732 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-28 12:41:02.366 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-28 12:41:04.263 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-28 12:41:04.472 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-28 12:41:09.577 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-28 12:41:10.060 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-28 12:41:11.475 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-28 12:41:11.905 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-28 12:41:16.290 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-28 12:41:17.306 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-28 12:41:18.755 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-28 12:41:18.895 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
