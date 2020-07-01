@@ -78,3 +78,139 @@
 2020-06-28 12:41:17.306 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
 2020-06-28 12:41:18.755 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
 2020-06-28 12:41:18.895 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-29 17:05:12.584 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-29_Jun_2020_05_05_12_PM
+2020-06-29 17:05:14.732 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-29 17:05:14.732 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-29 17:05:14.733 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-29 17:05:21.153 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-29 17:05:22.081 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-29 17:05:24.661 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-29 17:05:25.003 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-29 17:05:30.101 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-29 17:05:31.231 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-29 17:05:34.116 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-29 17:05:34.177 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-29 17:05:39.202 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-29 17:05:39.504 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-29 17:05:41.690 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-29 17:05:41.794 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:02:57.623 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_05_02_57_PM
+2020-06-30 17:02:57.678 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 17:02:57.679 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 17:02:57.679 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 17:03:03.197 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:03:07.160 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:06:11.217 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_05_06_11_PM
+2020-06-30 17:06:11.257 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 17:06:11.257 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 17:06:11.258 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 17:06:16.355 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:06:21.646 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:11:55.314 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_05_11_55_PM
+2020-06-30 17:11:55.351 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 17:11:55.352 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 17:11:55.352 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 17:12:00.123 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:12:07.389 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:15:33.463 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_05_15_33_PM
+2020-06-30 17:15:33.505 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 17:15:33.505 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 17:15:33.505 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 17:15:38.293 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:15:43.488 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:21:49.148 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_05_21_49_PM
+2020-06-30 17:21:49.189 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 17:21:49.189 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 17:21:49.189 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 17:21:54.372 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:21:59.379 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:23:01.888 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_05_23_01_PM
+2020-06-30 17:23:01.930 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 17:23:01.930 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 17:23:01.931 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 17:23:06.705 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:23:12.011 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:27:50.060 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_05_27_50_PM
+2020-06-30 17:27:50.099 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 17:27:50.100 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 17:27:50.100 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 17:27:54.661 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:28:00.651 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:40:41.947 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_05_40_41_PM
+2020-06-30 17:40:41.993 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 17:40:41.993 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 17:40:41.993 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 17:40:48.154 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:40:50.852 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:52:01.048 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_05_52_01_PM
+2020-06-30 17:52:01.094 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 17:52:01.094 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 17:52:01.095 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 17:52:06.304 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:52:12.261 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 18:14:03.220 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_06_14_03_PM
+2020-06-30 18:14:03.265 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 18:14:03.265 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 18:14:03.265 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 18:14:08.446 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 18:14:20.386 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 18:23:38.535 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_06_23_38_PM
+2020-06-30 18:23:38.565 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 18:23:38.565 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 18:23:38.565 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 18:23:42.277 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 18:23:48.350 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 18:25:13.500 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_06_25_13_PM
+2020-06-30 18:25:13.525 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 18:25:13.526 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 18:25:13.526 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 18:25:16.931 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 18:25:30.048 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 18:26:56.144 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_06_26_56_PM
+2020-06-30 18:26:56.168 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 18:26:56.168 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 18:26:56.168 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 18:26:59.430 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 18:27:15.371 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 18:41:01.574 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_06_41_01_PM
+2020-06-30 18:41:01.606 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 18:41:01.607 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 18:41:01.607 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 18:41:05.376 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 18:41:12.067 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 18:42:00.975 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_06_42_00_PM
+2020-06-30 18:42:01.005 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 18:42:01.005 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 18:42:01.005 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 18:42:04.792 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 18:42:40.435 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 18:44:20.318 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_06_44_20_PM
+2020-06-30 18:44:20.350 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 18:44:20.351 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 18:44:20.351 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 18:44:23.926 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 18:44:48.559 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-07-01 09:27:25.108 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-01_Jul_2020_09_27_25_AM
+2020-07-01 09:27:25.152 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-07-01 09:27:25.153 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-07-01 09:27:25.153 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-07-01 09:27:31.308 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-07-01 09:27:58.757 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-07-01 17:29:30.805 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-07-01 17:29:30.814 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-07-01 17:29:30.814 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-07-01 17:29:30.818 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-01_Jul_2020_05_29_30_PM
+2020-07-01 17:29:38.255 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-07-01 17:29:38.255 [TestNG-test=Test-3] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-07-01 17:29:40.385 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-07-01 17:29:41.635 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-07-01 17:29:41.934 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-07-01 17:29:42.016 [TestNG-test=Test-3] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-07-01 17:29:46.468 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-07-01 17:29:47.215 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-07-01 17:29:48.532 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-07-01 17:29:48.536 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-07-01 17:29:52.731 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-07-01 17:29:52.849 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-07-01 17:29:55.595 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-07-01 17:29:55.610 [TestNG-test=Test-2] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed

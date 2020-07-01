@@ -14,6 +14,7 @@ public class DifferenceOfTwoNumbers extends Annotations{
 		int result = difference.differenceOfTwoNumbers(a, b);
 		System.out.println("Running Test -> testMethod1 : " + "the difference of "+a+" and "+b+" is - " + result);
 		Assert.assertEquals(result, c);
+		System.out.println("Thread 2");
 
 	}
 

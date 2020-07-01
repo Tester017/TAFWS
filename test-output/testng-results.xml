@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="23459" started-at="2020-06-28T12:40:55 IST" finished-at="2020-06-28T12:41:18 IST">
+  <suite name="Suite" duration-ms="24768" started-at="2020-07-01T17:29:30 IST" finished-at="2020-07-01T17:29:55 IST">
     <groups>
+      <group name="Multiplication">
+        <method signature="Multiplication.testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.Multiplication@553a3d88]" name="testMethod1" class="com.daniel.workspace.Multiplication"/>
+      </group> <!-- Multiplication -->
       <group name="Addition">
-        <method signature="Addition.testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.Addition@7cbd213e]" name="testMethod1" class="com.daniel.workspace.Addition"/>
+        <method signature="Addition.testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.Addition@64f6106c]" name="testMethod1" class="com.daniel.workspace.Addition"/>
       </group> <!-- Addition -->
       <group name="Difference">
-        <method signature="DifferenceOfTwoNumbers.testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.DifferenceOfTwoNumbers@52f759d7]" name="testMethod1" class="com.daniel.workspace.DifferenceOfTwoNumbers"/>
+        <method signature="DifferenceOfTwoNumbers.testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.DifferenceOfTwoNumbers@33723e30]" name="testMethod1" class="com.daniel.workspace.DifferenceOfTwoNumbers"/>
       </group> <!-- Difference -->
       <group name="Arithmetic">
-        <method signature="Addition.testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.Addition@7cbd213e]" name="testMethod1" class="com.daniel.workspace.Addition"/>
-        <method signature="DifferenceOfTwoNumbers.testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.DifferenceOfTwoNumbers@52f759d7]" name="testMethod1" class="com.daniel.workspace.DifferenceOfTwoNumbers"/>
+        <method signature="Addition.testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.Addition@64f6106c]" name="testMethod1" class="com.daniel.workspace.Addition"/>
+        <method signature="DifferenceOfTwoNumbers.testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.DifferenceOfTwoNumbers@33723e30]" name="testMethod1" class="com.daniel.workspace.DifferenceOfTwoNumbers"/>
+        <method signature="Multiplication.testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.Multiplication@553a3d88]" name="testMethod1" class="com.daniel.workspace.Multiplication"/>
       </group> <!-- Arithmetic -->
     </groups>
-    <test name="Test" duration-ms="23459" started-at="2020-06-28T12:40:55 IST" finished-at="2020-06-28T12:41:18 IST">
+    <test name="Test" duration-ms="24768" started-at="2020-07-01T17:29:30 IST" finished-at="2020-07-01T17:29:55 IST">
       <class name="com.daniel.workspace.Addition">
-        <test-method status="PASS" signature="testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.Addition@7cbd213e]" name="testMethod1" duration-ms="6865" started-at="2020-06-28T12:40:55 IST" data-provider="calcAdditionInputs" finished-at="2020-06-28T12:41:02 IST">
+        <test-method status="PASS" signature="testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.Addition@64f6106c]" name="testMethod1" duration-ms="9467" started-at="2020-07-01T17:29:30 IST" data-provider="calcAdditionInputs" finished-at="2020-07-01T17:29:40 IST">
           <params>
             <param index="0">
               <value>
@@ -38,7 +42,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod1 -->
-        <test-method status="PASS" signature="testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.Addition@7cbd213e]" name="testMethod1" duration-ms="5289" started-at="2020-06-28T12:41:04 IST" data-provider="calcAdditionInputs" finished-at="2020-06-28T12:41:09 IST">
+        <test-method status="PASS" signature="testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.Addition@64f6106c]" name="testMethod1" duration-ms="4827" started-at="2020-07-01T17:29:41 IST" data-provider="calcAdditionInputs" finished-at="2020-07-01T17:29:46 IST">
           <params>
             <param index="0">
               <value>
@@ -59,7 +63,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod1 -->
-        <test-method status="PASS" signature="testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.Addition@7cbd213e]" name="testMethod1" duration-ms="5388" started-at="2020-06-28T12:41:11 IST" data-provider="calcAdditionInputs" finished-at="2020-06-28T12:41:17 IST">
+        <test-method status="PASS" signature="testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.Addition@64f6106c]" name="testMethod1" duration-ms="4192" started-at="2020-07-01T17:29:48 IST" data-provider="calcAdditionInputs" finished-at="2020-07-01T17:29:52 IST">
           <params>
             <param index="0">
               <value>
@@ -81,8 +85,31 @@
           </reporter-output>
         </test-method> <!-- testMethod1 -->
       </class> <!-- com.daniel.workspace.Addition -->
+      <class name="com.daniel.workspace.Multiplication">
+        <test-method status="PASS" signature="testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.Multiplication@553a3d88]" name="testMethod1" duration-ms="7390" started-at="2020-07-01T17:29:30 IST" finished-at="2020-07-01T17:29:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+      </class> <!-- com.daniel.workspace.Multiplication -->
       <class name="com.daniel.workspace.DifferenceOfTwoNumbers">
-        <test-method status="PASS" signature="testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.DifferenceOfTwoNumbers@52f759d7]" name="testMethod1" duration-ms="6241" started-at="2020-06-28T12:40:55 IST" data-provider="calcDifferenceInputs" finished-at="2020-06-28T12:41:01 IST">
+        <test-method status="PASS" signature="testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.DifferenceOfTwoNumbers@33723e30]" name="testMethod1" duration-ms="7345" started-at="2020-07-01T17:29:30 IST" data-provider="calcDifferenceInputs" finished-at="2020-07-01T17:29:38 IST">
           <params>
             <param index="0">
               <value>
@@ -103,7 +130,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod1 -->
-        <test-method status="PASS" signature="testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.DifferenceOfTwoNumbers@52f759d7]" name="testMethod1" duration-ms="5588" started-at="2020-06-28T12:41:04 IST" data-provider="calcDifferenceInputs" finished-at="2020-06-28T12:41:10 IST">
+        <test-method status="PASS" signature="testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.DifferenceOfTwoNumbers@33723e30]" name="testMethod1" duration-ms="5278" started-at="2020-07-01T17:29:41 IST" data-provider="calcDifferenceInputs" finished-at="2020-07-01T17:29:47 IST">
           <params>
             <param index="0">
               <value>
@@ -124,7 +151,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod1 -->
-        <test-method status="PASS" signature="testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.DifferenceOfTwoNumbers@52f759d7]" name="testMethod1" duration-ms="4813" started-at="2020-06-28T12:41:11 IST" data-provider="calcDifferenceInputs" finished-at="2020-06-28T12:41:16 IST">
+        <test-method status="PASS" signature="testMethod1(int, int, int)[pri:0, instance:com.daniel.workspace.DifferenceOfTwoNumbers@33723e30]" name="testMethod1" duration-ms="4316" started-at="2020-07-01T17:29:48 IST" data-provider="calcDifferenceInputs" finished-at="2020-07-01T17:29:52 IST">
           <params>
             <param index="0">
               <value>

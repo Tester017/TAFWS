@@ -15,6 +15,7 @@ public class Addition extends Annotations{
 		int result = sum.sumNumbers(a, b);
 		System.out.println("Running Test -> testMethod1 : " + "the sum of "+a+" and "+b+" is - " + result);
 		Assert.assertEquals(result, c);
+		System.out.println("Thread 1");
 
 	}
 
